@@ -9,5 +9,5 @@ import (
 func main() {
     message := greetings.Hello("PES")
 
-
+    fmt.Println(message)
 }
